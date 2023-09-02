@@ -26,4 +26,5 @@ function getRandomHexColor() {
 }
 
 
+console.log("change");
 
